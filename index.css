@@ -195,8 +195,14 @@ header a:hover {
     justify-content: space-between;
 }
 
+.van_price { 
+    text-decoration: none;
+}
+
 .van_price > h3{
     margin-bottom: 0;
+    text-decoration: none;
+
 }
 
 .van_style {
